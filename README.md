@@ -1,1 +1,1 @@
-# Meme-generator
+Produce your favorite copy pasta memes with this simple Bash script. No more worrying about having to find that copy pasta on Google, as it can now be at the touch of your fingertips! Just tell the MG what you want and it spits it right out! Haha I want to fucking die lmao.
